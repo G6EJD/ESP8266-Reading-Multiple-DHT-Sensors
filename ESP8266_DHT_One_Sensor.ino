@@ -1,3 +1,5 @@
+// ESP8266 or Arduinio reading multiple DHT (11,21,22) Temperature and Humidity Sensors
+// (c) D L Bird 2016
 
 #include "DHT.h"
 

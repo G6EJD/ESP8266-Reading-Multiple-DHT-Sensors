@@ -1,8 +1,7 @@
 // ESP8266 or Arduinio reading multiple DHT (11,21,22) Temperature and Humidity Sensors
 // (c) D L Bird 2016
 
-#include "DHT.h"
-
+#include "DHT.h"   //https://github.com/adafruit/DHT-sensor-library 
 // Create the DHT temperature and humidity sensor object
 DHT dht1(D4, DHT11);
 DHT dht2(D3, DHT21);
